@@ -1,7 +1,7 @@
 # #PRIME NUMBERS BETWEEN RANGE#
 # a = 30 
 # b = 60
-
+#These are minor changes for python repo commit
 # for num in range(a,b+1):
 #     for i in range(2,num):
 #         if num%i == 0:
